@@ -1,0 +1,9 @@
+downloads/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+cookies.txt
+*.part
+*.ytdl
